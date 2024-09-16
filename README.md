@@ -1,5 +1,6 @@
 Brainwave_Matrix_Intern
 Project Overview
+
 This repository contains the work for the Brainwave_Matrix_Intern project, focusing on sales data analysis and visualization. The main task was to analyze sales data and generate insights using Python and various data analysis libraries like Pandas, Matplotlib, and Seaborn.
 
 Features
